@@ -1,14 +1,6 @@
 body {
   background-color: #D1C4E9;
 }
- .kartu-profil {
-   width: 300px;
-   margin: 50px auto;
-   padding: 20px;
-   background-color: white;
-   border-radius: 15px;
-   box-shadow: o 4px 8px rgba(0,0,0,0.1);
-}
   .kartu-profil img {
     width: 150px
     border-radius: 50%
